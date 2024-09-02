@@ -1,0 +1,606 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1170px" height="773px" viewBox="-0.5 -0.5 1170 773" content="&lt;mxfile&gt;&lt;diagram id=&quot;kD_32FKilOj5psEo-D3L&quot; name=&quot;ページ1&quot;&gt;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&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <rect x="320" y="20" width="110" height="50" fill="#dae8fc" stroke="#6c8ebf" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="メイリオ" text-anchor="middle" font-size="12px">
+            <text x="374.5" y="42.5">
+                アーキテクチャー
+            </text>
+            <text x="374.5" y="56.5">
+                要素
+            </text>
+        </g>
+        <path d="M 600 45 L 432.24 45" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 442.12 41.33 L 431.12 45 L 442.12 48.67" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="メイリオ" text-anchor="middle" font-size="11px">
+            <rect fill="rgb(255, 255, 255)" stroke="none" x="485" y="30" width="57" height="14" stroke-width="0"/>
+            <text x="512" y="39.5">
+                関連づける
+            </text>
+        </g>
+        <rect x="600" y="20" width="110" height="50" fill="#dae8fc" stroke="#6c8ebf" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="メイリオ" text-anchor="middle" font-size="12px">
+            <text x="654.5" y="49.5">
+                要素間の関係
+            </text>
+        </g>
+        <path d="M 461.11 132.93 L 375 70" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 469.99 139.42 L 463.64 138.79 L 461.11 132.93 L 467.46 133.56 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="メイリオ" text-anchor="middle" font-size="11px">
+            <rect fill="rgb(255, 255, 255)" stroke="none" x="401" y="99" width="46" height="14" stroke-width="0"/>
+            <text x="422.65" y="109.19">
+                から成る
+            </text>
+        </g>
+        <path d="M 546.71 132.65 L 627.5 70" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 538.02 139.4 L 540.38 133.47 L 546.71 132.65 L 544.35 138.58 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="メイリオ" text-anchor="middle" font-size="11px">
+            <rect fill="rgb(255, 255, 255)" stroke="none" x="561" y="99" width="46" height="14" stroke-width="0"/>
+            <text x="583.07" y="108.96">
+                から成る
+            </text>
+        </g>
+        <path d="M 505 190 L 505 257.76" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 501.33 247.88 L 505 258.88 L 508.67 247.88" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="メイリオ" text-anchor="middle" font-size="11px">
+            <rect fill="rgb(255, 255, 255)" stroke="none" x="472" y="216" width="68" height="14" stroke-width="0"/>
+            <text x="505" y="225.5">
+                文書化される
+            </text>
+        </g>
+        <rect x="450" y="140" width="110" height="50" fill="#6a00ff" stroke="#3700cc" pointer-events="all"/>
+        <g fill="#ffffff" font-family="メイリオ" text-anchor="middle" font-size="12px">
+            <text x="504.5" y="169.5">
+                アーキテクチャー
+            </text>
+        </g>
+        <path d="M 330 165 L 447.76 165" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 437.88 168.67 L 448.88 165 L 437.88 161.33" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="メイリオ" text-anchor="middle" font-size="11px">
+            <rect fill="rgb(255, 255, 255)" stroke="none" x="361" y="151" width="57" height="14" stroke-width="0"/>
+            <text x="388" y="160.5">
+                結果を生む
+            </text>
+        </g>
+        <rect x="220" y="140" width="110" height="50" fill="#6a00ff" stroke="#3700cc" pointer-events="all"/>
+        <g fill="#ffffff" font-family="メイリオ" text-anchor="middle" font-size="12px">
+            <text x="274.5" y="169.5">
+                アーキテクティング
+            </text>
+        </g>
+        <path d="M 321.05 260 L 448.03 191.07" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 441.1 199 L 449.02 190.53 L 437.6 192.56" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="メイリオ" text-anchor="middle" font-size="11px">
+            <rect fill="rgb(255, 255, 255)" stroke="none" x="363" y="220" width="46" height="14" stroke-width="0"/>
+            <text x="385.21" y="229.67">
+                作成する
+            </text>
+        </g>
+        <path d="M 275 260 L 275 192.24" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 278.67 202.12 L 275 191.12 L 271.33 202.12" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="メイリオ" text-anchor="middle" font-size="11px">
+            <rect fill="rgb(255, 255, 255)" stroke="none" x="255" y="224" width="46" height="14" stroke-width="0"/>
+            <text x="277" y="233.5">
+                実行する
+            </text>
+        </g>
+        <rect x="220" y="260" width="110" height="50" fill="#6a00ff" stroke="#3700cc" pointer-events="all"/>
+        <g fill="#ffffff" font-family="メイリオ" text-anchor="middle" font-size="12px">
+            <text x="274.5" y="289.5">
+                アーキテクト
+            </text>
+        </g>
+        <path d="M 228.34 110 L 267.96 141" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="stroke"/>
+        <path d="M 130 50 L 234 50 L 250 66 L 250 110 L 130 110 L 130 50 Z" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 234 50 L 234 66 L 250 66" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="メイリオ" text-anchor="middle" font-size="11px">
+            <text x="189.5" y="82.5">
+                アーキテクチャー
+            </text>
+            <text x="189.5" y="95.5">
+                定義プロセス
+            </text>
+        </g>
+        <path d="M 505 321.99 L 505 390" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 505 310.99 L 508.24 316.49 L 505 321.99 L 501.76 316.49 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="メイリオ" text-anchor="middle" font-size="11px">
+            <rect fill="rgb(255, 255, 255)" stroke="none" x="486" y="350" width="46" height="14" stroke-width="0"/>
+            <text x="508" y="359.5">
+                から成る
+            </text>
+        </g>
+        <path d="M 560 285 L 914.76 285" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 904.88 288.67 L 915.88 285 L 904.88 281.33" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="メイリオ" text-anchor="middle" font-size="11px">
+            <rect fill="rgb(255, 255, 255)" stroke="none" x="684" y="279" width="112" height="14" stroke-width="0"/>
+            <text x="738.5" y="289">
+                のために文書化される
+            </text>
+        </g>
+        <path d="M 538.2 260 L 588.21 222.34" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 582.52 231.22 L 589.11 221.67 L 578.11 225.36" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="メイリオ" text-anchor="middle" font-size="11px">
+            <rect fill="rgb(255, 255, 255)" stroke="none" x="541" y="235" width="46" height="14" stroke-width="0"/>
+            <text x="563.27" y="244.75">
+                提供する
+            </text>
+        </g>
+        <rect x="450" y="260" width="110" height="50" fill="#dae8fc" stroke="#6c8ebf" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="メイリオ" text-anchor="middle" font-size="12px">
+            <text x="504.5" y="282.5">
+                アーキテクチャー
+            </text>
+            <text x="504.5" y="296.5">
+                記述
+            </text>
+        </g>
+        <path d="M 562.24 415 L 640 415" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 572.12 411.33 L 561.12 415 L 572.12 418.67" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="メイリオ" text-anchor="middle" font-size="11px">
+            <rect fill="rgb(255, 255, 255)" stroke="none" x="589" y="400" width="24" height="14" stroke-width="0"/>
+            <text x="600" y="409.5">
+                従う
+            </text>
+        </g>
+        <path d="M 477.5 440 L 477.5 511 L 333.24 511" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 343.12 507.33 L 332.12 511 L 343.12 514.67" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="メイリオ" text-anchor="middle" font-size="11px">
+            <rect fill="rgb(255, 255, 255)" stroke="none" x="363" y="495" width="79" height="14" stroke-width="0"/>
+            <text x="401.5" y="504.5">
+                要求を定義する
+            </text>
+        </g>
+        <path d="M 477.5 440 L 477.5 631 L 333.24 631" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 343.12 627.33 L 332.12 631 L 343.12 634.67" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="メイリオ" text-anchor="middle" font-size="11px">
+            <rect fill="rgb(255, 255, 255)" stroke="none" x="358" y="616" width="79" height="14" stroke-width="0"/>
+            <text x="396.5" y="625.5">
+                配置を定義する
+            </text>
+        </g>
+        <path d="M 477.5 440 L 477.5 690 L 333.24 690" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 343.12 686.33 L 332.12 690 L 343.12 693.67" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="メイリオ" text-anchor="middle" font-size="11px">
+            <rect fill="rgb(255, 255, 255)" stroke="none" x="350" y="675" width="90" height="14" stroke-width="0"/>
+            <text x="393.5" y="684.5">
+                妥当性を確認する
+            </text>
+        </g>
+        <path d="M 532.5 440 L 530 440 L 530 511 L 686.76 511" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 676.88 514.67 L 687.88 511 L 676.88 507.33" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="メイリオ" text-anchor="middle" font-size="11px">
+            <rect fill="rgb(255, 255, 255)" stroke="none" x="539" y="493" width="133" height="14" stroke-width="0"/>
+            <text x="604.5" y="502.5">
+                パフォーマンスを定義する
+            </text>
+        </g>
+        <path d="M 530 440 L 530 571 L 686.76 571" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 676.88 574.67 L 687.88 571 L 676.88 567.33" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="メイリオ" text-anchor="middle" font-size="11px">
+            <rect fill="rgb(255, 255, 255)" stroke="none" x="567" y="555" width="90" height="14" stroke-width="0"/>
+            <text x="611" y="564.5">
+                可用性を定義する
+            </text>
+        </g>
+        <path d="M 530 440 L 530 631 L 686.76 631" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 676.88 634.67 L 687.88 631 L 676.88 627.33" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="メイリオ" text-anchor="middle" font-size="11px">
+            <rect fill="rgb(255, 255, 255)" stroke="none" x="544" y="614" width="123" height="14" stroke-width="0"/>
+            <text x="604" y="623.5">
+                セキュリティを定義する
+            </text>
+        </g>
+        <path d="M 530 440 L 530 690 L 686.76 690" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 676.88 693.67 L 687.88 690 L 676.88 686.33" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="メイリオ" text-anchor="middle" font-size="11px">
+            <rect fill="rgb(255, 255, 255)" stroke="none" x="536" y="674" width="145" height="14" stroke-width="0"/>
+            <text x="607" y="683.5">
+                開発の方針と制約を定義する
+            </text>
+        </g>
+        <path d="M 530 440 L 530 747 L 686.76 747" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 676.88 750.67 L 687.88 747 L 676.88 743.33" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="メイリオ" text-anchor="middle" font-size="11px">
+            <rect fill="rgb(255, 255, 255)" stroke="none" x="570" y="732" width="79" height="14" stroke-width="0"/>
+            <text x="608" y="741.5">
+                運用を定義する
+            </text>
+        </g>
+        <rect x="450" y="390" width="110" height="50" fill="#dae8fc" stroke="#6c8ebf" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="メイリオ" text-anchor="middle" font-size="12px">
+            <text x="504.5" y="419.5">
+                ビュー
+            </text>
+        </g>
+        <rect x="640" y="390" width="110" height="50" fill="#dae8fc" stroke="#6c8ebf" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="メイリオ" text-anchor="middle" font-size="12px">
+            <text x="694.5" y="419.5">
+                ビューポイント
+            </text>
+        </g>
+        <path d="M 914.76 415 L 750 415" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 904.88 418.67 L 915.88 415 L 904.88 411.33" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="メイリオ" text-anchor="middle" font-size="11px">
+            <rect fill="rgb(255, 255, 255)" stroke="none" x="817" y="401" width="46" height="14" stroke-width="0"/>
+            <text x="839" y="410.5">
+                対応する
+            </text>
+        </g>
+        <rect x="917" y="390" width="110" height="50" fill="#dae8fc" stroke="#6c8ebf" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="メイリオ" text-anchor="middle" font-size="12px">
+            <text x="971.5" y="419.5">
+                関心事
+            </text>
+        </g>
+        <path d="M 972 310 L 972 387.76" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 968.33 377.88 L 972 388.88 L 975.67 377.88" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="メイリオ" text-anchor="middle" font-size="11px">
+            <rect fill="rgb(255, 255, 255)" stroke="none" x="963" y="342" width="24" height="14" stroke-width="0"/>
+            <text x="974" y="351.5">
+                持つ
+            </text>
+        </g>
+        <path d="M 972 260 L 972 192.24" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 975.67 202.12 L 972 191.12 L 968.33 202.12" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="メイリオ" text-anchor="middle" font-size="11px">
+            <rect fill="rgb(255, 255, 255)" stroke="none" x="934" y="219" width="77" height="14" stroke-width="0"/>
+            <text x="971.5" y="229">
+                ニーズを満たす
+            </text>
+        </g>
+        <rect x="917" y="260" width="110" height="50" fill="#dae8fc" stroke="#6c8ebf" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="メイリオ" text-anchor="middle" font-size="12px">
+            <text x="971.5" y="289.5">
+                ステークホルダー
+            </text>
+        </g>
+        <path d="M 917 165 L 562.24 165" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 572.12 161.33 L 561.12 165 L 572.12 168.67" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="メイリオ" text-anchor="middle" font-size="11px">
+            <rect fill="rgb(255, 255, 255)" stroke="none" x="722" y="150" width="24" height="14" stroke-width="0"/>
+            <text x="733" y="159.5">
+                持つ
+            </text>
+        </g>
+        <rect x="917" y="140" width="110" height="50" fill="#dae8fc" stroke="#6c8ebf" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="メイリオ" text-anchor="middle" font-size="12px">
+            <text x="971.5" y="162.5">
+                ソフトウェア集約
+            </text>
+            <text x="971.5" y="176.5">
+                システム
+            </text>
+        </g>
+        <path d="M 800 30.5 L 721.93 38.31" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 710.98 39.4 L 716.13 35.64 L 721.93 38.31 L 716.78 42.07 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="メイリオ" text-anchor="middle" font-size="11px">
+            <rect fill="rgb(255, 255, 255)" stroke="none" x="738" y="28" width="46" height="14" stroke-width="0"/>
+            <text x="760.1" y="37.99">
+                から成る
+            </text>
+        </g>
+        <rect x="800" y="0" width="110" height="50" fill="#dae8fc" stroke="#6c8ebf" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="メイリオ" text-anchor="middle" font-size="12px">
+            <text x="854.5" y="29.5">
+                静的な構造
+            </text>
+        </g>
+        <path d="M 800 74.57 L 721.78 59.73" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 710.97 57.68 L 716.98 55.53 L 721.78 59.73 L 715.77 61.89 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="メイリオ" text-anchor="middle" font-size="11px">
+            <rect fill="rgb(255, 255, 255)" stroke="none" x="740" y="62" width="46" height="14" stroke-width="0"/>
+            <text x="761.68" y="71.8">
+                から成る
+            </text>
+        </g>
+        <rect x="800" y="60" width="110" height="50" fill="#dae8fc" stroke="#6c8ebf" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="メイリオ" text-anchor="middle" font-size="12px">
+            <text x="854.5" y="89.5">
+                動的な振る舞い
+            </text>
+        </g>
+        <rect x="0" y="576" width="110" height="50" fill="#dae8fc" stroke="#6c8ebf" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="メイリオ" text-anchor="middle" font-size="12px">
+            <text x="54.5" y="605.5">
+                基本ビュー
+            </text>
+        </g>
+        <rect x="886" y="606" width="110" height="50" fill="#dae8fc" stroke="#6c8ebf" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="メイリオ" text-anchor="middle" font-size="12px">
+            <text x="940.5" y="628.5">
+                横断的ビュー
+            </text>
+            <text x="940.5" y="642.5">
+                (パースペクティブ)
+            </text>
+        </g>
+        <path d="M 1013.33 676 L 996 643.5" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="stroke"/>
+        <path d="M 972 676 L 1076 676 L 1092 692 L 1092 746 L 972 746 L 972 676 Z" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 1076 676 L 1076 692 L 1092 692" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="メイリオ" text-anchor="middle" font-size="11px">
+            <text x="1031.5" y="708.5">
+                おもに品質特性に
+            </text>
+            <text x="1031.5" y="721.5">
+                関するビュー
+            </text>
+        </g>
+        <path d="M 722.5 380 L 714.64 390" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="stroke"/>
+        <path d="M 690 310 L 794 310 L 810 326 L 810 380 L 690 380 L 690 310 Z" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 794 310 L 794 326 L 810 326" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="メイリオ" text-anchor="middle" font-size="11px">
+            <text x="749.5" y="342.5">
+                ビューを構築する
+            </text>
+            <text x="749.5" y="355.5">
+                ためのパターンや
+            </text>
+            <text x="749.5" y="368.5">
+                テンプレート
+            </text>
+        </g>
+        <path d="M 330 376.79 L 438.28 399.99" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 449.04 402.29 L 442.98 404.3 L 438.28 399.99 L 444.34 397.98 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="メイリオ" text-anchor="middle" font-size="11px">
+            <rect fill="rgb(255, 255, 255)" stroke="none" x="361" y="382" width="46" height="14" stroke-width="0"/>
+            <text x="383.01" y="391.62">
+                から成る
+            </text>
+        </g>
+        <path d="M 220 365 L 165 365 L 165 405 L 122.12 405" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 111.12 405 L 122.12 399.5 L 122.12 410.5 Z" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="メイリオ" text-anchor="middle" font-size="11px">
+            <rect fill="rgb(255, 255, 255)" stroke="none" x="113" y="385" width="57" height="14" stroke-width="0"/>
+            <text x="140" y="394.5">
+                一種である
+            </text>
+        </g>
+        <rect x="220" y="340" width="110" height="50" fill="#dae8fc" stroke="#6c8ebf" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="メイリオ" text-anchor="middle" font-size="12px">
+            <text x="274.5" y="369.5">
+                論理モデル
+            </text>
+        </g>
+        <path d="M 330 432.64 L 438.02 428.01" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 449.01 427.54 L 443.66 431.01 L 438.02 428.01 L 443.38 424.55 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="メイリオ" text-anchor="middle" font-size="11px">
+            <rect fill="rgb(255, 255, 255)" stroke="none" x="360" y="424" width="46" height="14" stroke-width="0"/>
+            <text x="381.91" y="433.92">
+                から成る
+            </text>
+        </g>
+        <path d="M 220 435 L 165 435 L 165 405 L 122.12 405" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 111.12 405 L 122.12 399.5 L 122.12 410.5 Z" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="220" y="410" width="110" height="50" fill="#dae8fc" stroke="#6c8ebf" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="メイリオ" text-anchor="middle" font-size="12px">
+            <text x="274.5" y="439.5">
+                物理モデル
+            </text>
+        </g>
+        <rect x="0" y="380" width="110" height="50" fill="#dae8fc" stroke="#6c8ebf" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="メイリオ" text-anchor="middle" font-size="12px">
+            <text x="54.5" y="409.5">
+                モデル
+            </text>
+        </g>
+        <path d="M 221 571 L 166 571 L 166 601 L 122.12 601" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 111.12 601 L 122.12 595.5 L 122.12 606.5 Z" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="221" y="546" width="110" height="50" fill="#dae8fc" stroke="#6c8ebf" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="メイリオ" text-anchor="middle" font-size="12px">
+            <text x="275.5" y="575.5">
+                機能ビュー
+            </text>
+        </g>
+        <path d="M 221 631 L 166 631 L 166 601 L 122.12 601" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 111.12 601 L 122.12 595.5 L 122.12 606.5 Z" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="221" y="606" width="110" height="50" fill="#dae8fc" stroke="#6c8ebf" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="メイリオ" text-anchor="middle" font-size="12px">
+            <text x="275.5" y="635.5">
+                配置ビュー
+            </text>
+        </g>
+        <path d="M 221 511 L 166 511 L 166 601 L 122.12 601" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 111.12 601 L 122.12 595.5 L 122.12 606.5 Z" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="221" y="486" width="110" height="50" fill="#dae8fc" stroke="#6c8ebf" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="メイリオ" text-anchor="middle" font-size="12px">
+            <text x="275.5" y="515.5">
+                要求ビュー
+            </text>
+        </g>
+        <path d="M 221 690 L 166 690 L 166 601 L 122.12 601" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 111.12 601 L 122.12 595.5 L 122.12 606.5 Z" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="メイリオ" text-anchor="middle" font-size="11px">
+            <rect fill="rgb(255, 255, 255)" stroke="none" x="115" y="582" width="57" height="14" stroke-width="0"/>
+            <text x="142" y="591.5">
+                一種である
+            </text>
+        </g>
+        <rect x="221" y="665" width="110" height="50" fill="#dae8fc" stroke="#6c8ebf" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="メイリオ" text-anchor="middle" font-size="12px">
+            <text x="275.5" y="694.5">
+                妥当性確認ビュー
+            </text>
+        </g>
+        <path d="M 477.5 440 L 477.5 571 L 333.24 571" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 343.12 567.33 L 332.12 571 L 343.12 574.67" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="メイリオ" text-anchor="middle" font-size="11px">
+            <rect fill="rgb(255, 255, 255)" stroke="none" x="362" y="555" width="79" height="14" stroke-width="0"/>
+            <text x="400.5" y="564.5">
+                機能を定義する
+            </text>
+        </g>
+        <rect x="689" y="665" width="110" height="50" fill="#dae8fc" stroke="#6c8ebf" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="メイリオ" text-anchor="middle" font-size="12px">
+            <text x="743.5" y="694.5">
+                開発ビュー
+            </text>
+        </g>
+        <path d="M 799 747 L 843 747 L 843 631 L 873.88 631" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 884.88 631 L 873.88 636.5 L 873.88 625.5 Z" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="689" y="722" width="110" height="50" fill="#dae8fc" stroke="#6c8ebf" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="メイリオ" text-anchor="middle" font-size="12px">
+            <text x="743.5" y="751.5">
+                運用ビュー
+            </text>
+        </g>
+        <path d="M 799 511 L 843 511 L 843 631 L 873.88 631" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 884.88 631 L 873.88 636.5 L 873.88 625.5 Z" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="689" y="486" width="110" height="50" fill="#dae8fc" stroke="#6c8ebf" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="メイリオ" text-anchor="middle" font-size="12px">
+            <text x="743.5" y="508.5">
+                パフォーマンス
+            </text>
+            <text x="743.5" y="522.5">
+                ビュー
+            </text>
+        </g>
+        <path d="M 799 571 L 843 571 L 843 631 L 873.88 631" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 884.88 631 L 873.88 636.5 L 873.88 625.5 Z" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="689" y="546" width="110" height="50" fill="#dae8fc" stroke="#6c8ebf" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="メイリオ" text-anchor="middle" font-size="12px">
+            <text x="743.5" y="575.5">
+                可用性ビュー
+            </text>
+        </g>
+        <path d="M 799 631 L 843 631 L 873.88 631" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 884.88 631 L 873.88 636.5 L 873.88 625.5 Z" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="689" y="606" width="110" height="50" fill="#dae8fc" stroke="#6c8ebf" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="メイリオ" text-anchor="middle" font-size="12px">
+            <text x="743.5" y="628.5">
+                セキュリティ
+            </text>
+            <text x="743.5" y="642.5">
+                ビュー
+            </text>
+        </g>
+        <path d="M 799 690 L 843 690 L 843 631 L 873.88 631" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 884.88 631 L 873.88 636.5 L 873.88 625.5 Z" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="メイリオ" text-anchor="middle" font-size="11px">
+            <rect fill="rgb(255, 255, 255)" stroke="none" x="831" y="612" width="57" height="14" stroke-width="0"/>
+            <text x="858" y="621.5">
+                一種である
+            </text>
+        </g>
+        <path d="M 852 490.82 L 800 495" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="stroke"/>
+        <path d="M 852 451 L 956 451 L 972 467 L 972 521 L 852 521 L 852 451 Z" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 956 451 L 956 467 L 972 467" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="メイリオ" text-anchor="middle" font-size="11px">
+            <text x="911.5" y="483.5">
+                キャパシティと
+            </text>
+            <text x="911.5" y="496.5">
+                スケーラビリティを
+            </text>
+            <text x="911.5" y="509.5">
+                含む
+            </text>
+        </g>
+        <path d="M 68.89 340 L 60 376" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="stroke"/>
+        <path d="M 20 250 L 124 250 L 140 266 L 140 340 L 20 340 L 20 250 Z" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 124 250 L 124 266 L 140 266" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="メイリオ" text-anchor="middle" font-size="11px">
+            <text x="79.5" y="282.5">
+                ある側面について抽象化
+            </text>
+            <text x="79.5" y="295.5">
+                または単純化された表現
+            </text>
+            <text x="79.5" y="308.5">
+                ビューの表現手段
+            </text>
+            <text x="79.5" y="321.5">
+                図、数式、文章で記述
+            </text>
+            <text x="79.5" y="334.5">
+                される
+            </text>
+        </g>
+        <path d="M 1049 264.85 L 1027 272.5" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="stroke"/>
+        <path d="M 1049 206 L 1153 206 L 1169 222 L 1169 282 L 1049 282 L 1049 206 Z" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 1153 206 L 1153 222 L 1169 222" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="メイリオ" text-anchor="middle" font-size="11px">
+            <text x="1108.5" y="238.5">
+                構築するシステムに
+            </text>
+            <text x="1108.5" y="251.5">
+                何らかの関心や関係を
+            </text>
+            <text x="1108.5" y="264.5">
+                持つ人、組織
+            </text>
+        </g>
+        <path d="M 1049 133.56 L 1027 140" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="stroke"/>
+        <path d="M 1049 66 L 1153 66 L 1169 82 L 1169 166 L 1049 166 L 1049 66 Z" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 1153 66 L 1153 82 L 1169 82" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="メイリオ" text-anchor="middle" font-size="11px">
+            <text x="1108.5" y="98.5">
+                ソフトウェアがシス
+            </text>
+            <text x="1108.5" y="111.5">
+                テムの設計、構築、
+            </text>
+            <text x="1108.5" y="124.5">
+                展開において重要な
+            </text>
+            <text x="1108.5" y="137.5">
+                役割を果たすシステム
+            </text>
+        </g>
+        <path d="M 1049 372.82 L 999.5 390" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="stroke"/>
+        <path d="M 1049 314 L 1153 314 L 1169 330 L 1169 390 L 1049 390 L 1049 314 Z" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 1153 314 L 1153 330 L 1169 330" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="メイリオ" text-anchor="middle" font-size="11px">
+            <text x="1108.5" y="346.5">
+                要求や目的、意図
+            </text>
+            <text x="1108.5" y="359.5">
+                または願望
+            </text>
+        </g>
+        <path d="M 700 221 L 767.76 221" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 757.88 224.67 L 768.88 221 L 757.88 217.33" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="メイリオ" text-anchor="middle" font-size="11px">
+            <rect fill="rgb(255, 255, 255)" stroke="none" x="707" y="205" width="57" height="14" stroke-width="0"/>
+            <text x="734" y="214.5">
+                正当化する
+            </text>
+        </g>
+        <rect x="590" y="196" width="110" height="50" fill="#dae8fc" stroke="#6c8ebf" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="メイリオ" text-anchor="middle" font-size="12px">
+            <text x="644.5" y="225.5">
+                論理的根拠
+            </text>
+        </g>
+        <rect x="770" y="196" width="110" height="50" fill="#dae8fc" stroke="#6c8ebf" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="メイリオ" text-anchor="middle" font-size="12px">
+            <text x="824.5" y="218.5">
+                アーキテクチャー
+            </text>
+            <text x="824.5" y="232.5">
+                上の判断
+            </text>
+        </g>
+        <path d="M 148.75 226 L 220 340" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="stroke"/>
+        <path d="M 70 166 L 174 166 L 190 182 L 190 226 L 70 226 L 70 166 Z" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 174 166 L 174 182 L 190 182" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="メイリオ" text-anchor="middle" font-size="11px">
+            <text x="129.5" y="198.5">
+                実装やテクノロジーから
+            </text>
+            <text x="129.5" y="211.5">
+                独立したモデル
+            </text>
+        </g>
+        <path d="M 160 473 L 220 460" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="stroke"/>
+        <path d="M 40 456 L 144 456 L 160 472 L 160 516 L 40 516 L 40 456 Z" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 144 456 L 144 472 L 160 472" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="メイリオ" text-anchor="middle" font-size="11px">
+            <text x="99.5" y="488.5">
+                実装やテクノロジーに
+            </text>
+            <text x="99.5" y="501.5">
+                依存したモデル
+            </text>
+        </g>
+    </g>
+</svg>
